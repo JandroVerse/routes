@@ -1,4 +1,4 @@
 {
-  "journeyAdsEnabled": false,
+  "journeyAdsEnabled": true,
   "journeyAdInterval": 2
 }
